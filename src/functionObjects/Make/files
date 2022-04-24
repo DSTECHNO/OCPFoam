@@ -1,4 +1,4 @@
 residualControlDST/residualControlDST.C
 faceZoneAverageDST/faceZoneAverageDST.C
 
-LIB = $(FOAM_USER_LIBBIN)/libdataCenterFunctionObjectsDST
+LIB = $(FOAM_USER_LIBBIN)/libOCPFoamFunctionObjects
