@@ -72,7 +72,7 @@ Prof. Dr. Ender Demirel
 This study is part of a project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement **No 956059**
 
 # Licence
-```diff
-+ Copyright 2022 Design and Simulation Technologies Inc. green
-```
+
+Copyright 2022 Design and Simulation Technologies Inc. green
+
 Distributed using the GNU General Public License (GPL), version 3; see the LICENSE file for details.
