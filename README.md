@@ -3,7 +3,7 @@ An open source CFD software for the flow and thermal analysis of OCP (Open Compu
 
 ![OCP](https://user-images.githubusercontent.com/89465885/164973779-05e188ba-f645-4e2c-a579-e36468c17234.jpg)
 
-Figure 1. (A) Three-dimensional, (B) front and (C) back views of the Leopard V3.1 model of OCP server.  
+**Figure 1.** (A) Three-dimensional, (B) front and (C) back views of the Leopard V3.1 model of OCP server.  
 
 This repository provides an object function to check whether the solution reachs steady-state considering three conditions. The first and second conditions are relative tolerance between two successive iterations and maximum iteration number, respectively. The last condition, which is proposed here, checks the slope of the trendline in the log-scaled space. 
 
