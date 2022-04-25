@@ -36,6 +36,8 @@ or
 
 **Addition.** To delete the library:
 
+**$** cd ../OCPFoam
+
 **$** ./Allwclean
 
 # Paper
