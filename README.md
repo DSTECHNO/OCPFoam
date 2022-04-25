@@ -13,9 +13,6 @@ An open source CFD software for the flow and thermal analysis of OCP (Open Compu
 
 [![Airflow through an OCP server](https://yt-embed.herokuapp.com/embed?v=w-Xrcj8y-bA)](https://www.youtube.com/watch?v=w-Xrcj8y-bA "Airflow through an OCP server")
 
-<a href="https://www.youtube.com/watch?v=w-Xrcj8y-bA" target="_blank">Airflow through an OCP server</a>
-
-
 This repository provides an object function to check whether the solution reachs steady-state considering three conditions. The first and second conditions are relative tolerance between two successive iterations and maximum iteration number, respectively. The last condition, which is proposed here, checks the slope of the trendline in the log-scaled space. 
 
 <p align="center">
