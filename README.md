@@ -19,12 +19,19 @@ The second object function calculates  average pressure over face zones created 
 
 # Usage
 **Step 1.** The library is compiled into OpenFOAM.
+
 $ ./Allwmake
+
 **Step 2.** The desired tutorial is entered into the folder and the case is run.
+
 $ cd tutorials/pitzDailyFaceZoneAverage
+
 $ ./Allrun
+
 or
+
 $ cd tutorials/pitzDailyResidualControl
+
 $ ./Allrun
 
 **Addition:** Run Allwmake to delete the library in OCPFoam folder.
