@@ -18,7 +18,7 @@ The second object function calculates  average pressure over face zones created 
 **Figure 3.** Computational domain and boundaries of the computational domain.
 
 # Usage
-**Step 1.** The library is compiled into OpenFOAM.
+**Step 1.** Compile the library in OpenFOAM.
 
 $ ./Allwmake
 
