@@ -13,6 +13,9 @@ Figure 2. Residual control procedure (A) residuals, (B) normalized residuals and
 
 The second object function calculates  average pressure over face zones created at the inlet and outlet of a server. 
 
+![Domain](https://user-images.githubusercontent.com/30440239/165032510-35682979-b377-4219-b1f6-ebb65aa6e8a1.png)
+
+Figure 3. Computational domain and boundaries of the computational domain.
 
 # Usage
 
@@ -21,6 +24,16 @@ Dogan A, Yilmaz S, Kuzay M, et al.: Development of a new model for the predictio
 
 # Data Set
 Zenodo: OpenFOAM cases of the paper " Development of a new model for the prediction of the pressure drop through an OCP server for data center applications ", https://doi.org/10.5281/zenodo.6342699
+
+# Developers
+
+Aras Dogan
+
+Sibel Yilmaz
+
+Mustafa Kuzay
+
+Prof.Dr. Ender Demirel
 
 # Acknowledgements
 This study is part of a project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 956059
