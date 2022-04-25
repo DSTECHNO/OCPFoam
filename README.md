@@ -9,21 +9,21 @@ This repository provides an object function to check whether the solution reachs
 
 ![OCP2](https://user-images.githubusercontent.com/89465885/164973808-08815c7c-c071-48c6-bfb6-f27ca39dc4e1.jpg)
 
-Figure 2. Residual control procedure (A) residuals, (B) normalized residuals and (C) the last 20% of normalized residuals with linear approximations. (Sp = -0.038, SUx = -0.015, SUy = -0.03, SUz = -0.033)
+**Figure 2.** Residual control procedure (A) residuals, (B) normalized residuals and (C) the last 20% of normalized residuals with linear approximations. (Sp = -0.038, SUx = -0.015, SUy = -0.03, SUz = -0.033)
 
 The second object function calculates  average pressure over face zones created at the inlet and outlet of a server. 
 
 ![Domain](https://user-images.githubusercontent.com/30440239/165032510-35682979-b377-4219-b1f6-ebb65aa6e8a1.png)
 
-Figure 3. Computational domain and boundaries of the computational domain.
+**Figure 3.** Computational domain and boundaries of the computational domain.
 
 # Usage
 
 # Paper
-Dogan A, Yilmaz S, Kuzay M, Yimaz C, Demirel E: Development of a new model for the prediction of the pressure drop through an OCP server for data center applications. Open Research Europe 2022.
+Dogan A, Yilmaz S, Kuzay M, Yimaz C, Demirel E: **Development of a new model for the prediction of the pressure drop through an OCP server for data center applications.** Open Research Europe 2022.
 
 # Data Set
-Zenodo: OpenFOAM cases of the paper " Development of a new model for the prediction of the pressure drop through an OCP server for data center applications ", https://doi.org/10.5281/zenodo.6342699
+Zenodo: OpenFOAM cases of the paper **" Development of a new model for the prediction of the pressure drop through an OCP server for data center applications "**, https://doi.org/10.5281/zenodo.6342699
 
 # Developers
 
@@ -33,7 +33,7 @@ Sibel Yilmaz
 
 Mustafa Kuzay
 
-Prof.Dr. Ender Demirel
+Prof. Dr. Ender Demirel
 
 # Acknowledgements
-This study is part of a project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 956059
+This study is part of a project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement **No 956059**
