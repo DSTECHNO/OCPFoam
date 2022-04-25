@@ -20,23 +20,23 @@ The second object function calculates  average pressure over face zones created 
 # Usage
 **Step 1.** Compile the library in OpenFOAM.
 
-$ ./Allwmake
+**$** ./Allwmake
 
 **Step 2.** The desired tutorial is entered into the folder and the case is run.
 
-$ cd tutorials/pitzDailyFaceZoneAverage
+**$** cd tutorials/pitzDailyFaceZoneAverage
 
-$ ./Allrun
+**$** ./Allrun
 
 or
 
-$ cd tutorials/pitzDailyResidualControl
+**$** cd tutorials/pitzDailyResidualControl
 
-$ ./Allrun
+**$** ./Allrun
 
 **Addition.** To delete the library;
 
-$ ./Allwclean
+**$** ./Allwclean
 
 # Paper
 Dogan A, Yilmaz S, Kuzay M, Yilmaz C, Demirel E: **Development of a new model for the prediction of the pressure drop through an OCP server for data center applications.** *Open Research Europe* 2022.
