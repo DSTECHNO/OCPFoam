@@ -34,7 +34,9 @@ $ cd tutorials/pitzDailyResidualControl
 
 $ ./Allrun
 
-**Addition:** Run Allwmake to delete the library in OCPFoam folder.
+**Addition.** To delete the library;
+
+$ ./Allwclean
 
 # Paper
 Dogan A, Yilmaz S, Kuzay M, Yilmaz C, Demirel E: **Development of a new model for the prediction of the pressure drop through an OCP server for data center applications.** *Open Research Europe* 2022.
