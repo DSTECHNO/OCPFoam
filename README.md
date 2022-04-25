@@ -22,7 +22,7 @@ The second object function calculates  average pressure over face zones created 
 # Paper
 Dogan A, Yilmaz S, Kuzay M, Yilmaz C, Demirel E: **Development of a new model for the prediction of the pressure drop through an OCP server for data center applications.** *Open Research Europe* 2022.
 
-# Data Set
+# Underlying Data
 Zenodo: OpenFOAM cases of the paper **" Development of a new model for the prediction of the pressure drop through an OCP server for data center applications " [Data Set]**, https://doi.org/10.5281/zenodo.6342699
 
 # Developers
