@@ -9,7 +9,7 @@ This repository provides an object function to check whether the solution reachs
 
 ![OCP2](https://user-images.githubusercontent.com/89465885/164973808-08815c7c-c071-48c6-bfb6-f27ca39dc4e1.jpg)
 
-**Figure 2.** Residual control procedure **(A)** residuals, **(B)** normalized residuals and **(C)** the last 20% of normalized residuals with linear approximations. (Sp = -0.038, SUx = -0.015, SUy = -0.03, SUz = -0.033)
+**Figure 2.** Residual control procedure residuals, normalized residuals and the last 20% of normalized residuals with linear approximations. (Sp = -0.038, SUx = -0.015, SUy = -0.03, SUz = -0.033)
 
 The second object function calculates  average pressure over face zones created at the inlet and outlet of a server. 
 
