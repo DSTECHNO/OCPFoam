@@ -18,11 +18,11 @@ The second object function calculates  average pressure over face zones created 
 **Figure 3.** Computational domain and boundaries of the computational domain.
 
 # Usage
-**Step 1.** Compile the library in OpenFOAM.
+**Step 1. Compile the library in OpenFOAM.**
 
 **$** ./Allwmake
 
-**Step 2.** The desired tutorial is entered into the folder and the case is run.
+**Step 2. The desired tutorial is entered into the folder and the case is run.**
 
 **$** cd tutorials/pitzDailyFaceZoneAverage
 
@@ -34,7 +34,7 @@ or
 
 **$** ./Allrun
 
-**Addition.** To delete the library;
+**Addition. To delete the library:**
 
 **$** ./Allwclean
 
