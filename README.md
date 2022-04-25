@@ -1,7 +1,9 @@
 # OCPFoam
-An open source CFD software for the flow and thermal analysis of OCP servers
+An open source CFD software for the flow and thermal analysis of OCP servers. 
 
 ![OCP](https://user-images.githubusercontent.com/89465885/164973779-05e188ba-f645-4e2c-a579-e36468c17234.jpg)
+
+
 
 Figure 1. (A) Three-dimensional, (B) front and (C) back views of the Leopard V3.1 model of OCP server.  
 
