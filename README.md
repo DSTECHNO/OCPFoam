@@ -73,6 +73,6 @@ This study is part of a project that has received funding from the European Unio
 
 # Licence
 
-Copyright 2022 Design and Simulation Technologies Inc. green
+Copyright 2022 Design and Simulation Technologies Inc.
 
 Distributed using the GNU General Public License (GPL), version 3; see the LICENSE file for details.
