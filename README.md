@@ -56,7 +56,7 @@ or
 Dogan A, Yilmaz S, Kuzay M, Yilmaz C, Demirel E: **CFD modeling of pressure drop through an OCP server for data center applications.** *Energies* 2022.
 
 # Underlying Data
-Zenodo: OpenFOAM cases of the paper **" Development of a new model for the prediction of the pressure drop through an OCP server for data center applications " [Data Set]**, https://www.zenodo.org/deposit/6342699 
+Zenodo: OpenFOAM cases of the paper **" CFD modeling of pressure drop through an OCP server for data center applications " [Data Set]**, https://www.zenodo.org/deposit/6342699 
 
 # Developers
 
