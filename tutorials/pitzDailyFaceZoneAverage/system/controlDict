@@ -50,7 +50,7 @@ functions
     avgP
     {
         type                faceZoneAverageDST;
-        libs                ("libdataCenterFunctionObjectsDST.so");
+        libs                ("libOCPFoamFunctionObjects.so");
 
         faceZones           (faceZoneA faceZoneB);
         field               p;
@@ -59,7 +59,7 @@ functions
     avgU
     {
         type                faceZoneAverageDST;
-        libs                ("libdataCenterFunctionObjectsDST.so");
+        libs                ("libOCPFoamFunctionObjects.so");
 
         faceZones           (faceZoneA faceZoneB);
         field               U;
