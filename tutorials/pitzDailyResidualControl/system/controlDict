@@ -52,7 +52,7 @@ functions
     steadyStateResidualControl
     {
         type                residualControlDST;
-        libs                ("libdataCenterFunctionObjectsDST.so");
+        libs                ("libOCPFoamFunctionObjects.so");
 
         iterationStart      100;
         magConvergedSlope   0.05;
