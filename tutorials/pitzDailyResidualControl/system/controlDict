@@ -53,7 +53,7 @@ functions
     {
         type                residualControlDST;
         libs                ("libOCPFoamFunctionObjects.so");
-
+        
         iterationStart      100;
         magConvergedSlope   0.05;
         residualFields      (p U);
